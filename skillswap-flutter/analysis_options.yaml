@@ -2,7 +2,7 @@ analyzer:
   errors:
     invalid_assignment: error
 linter:
-  rules:
+  rules: 
     - prefer_const_constructors
     - avoid_print
     - unnecessary_this
